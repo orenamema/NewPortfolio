@@ -5,6 +5,15 @@ The purpose of this project is to update my portfolio page with my latest projec
 
 Here is the [link](https://orenamema.github.io/NewPortfolio/) to the updated page
 
+## Technologies Used
+
+* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [GitHub](https://github.com/)
+* [VSCode](https://code.visualstudio.com/)
+* [Fontawesome](https://fontawesome.com/)
+
 ## Requirements
 
 Following are the requirements that I've followed for this project:
