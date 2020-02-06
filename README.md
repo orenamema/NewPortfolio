@@ -36,3 +36,7 @@ My updated site includes the following content:
 ### Design
 
 For the design of the website I chose a gif as the background image to give to make my page more entertaining and increase the visual impact on the page
+
+**Oren Amema**
+* [Github](https://github.com/orenamema)
+* [LinkedIn](https://www.linkedin.com/in/oren-amematekpo-b7a12b13)
