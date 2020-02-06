@@ -5,6 +5,8 @@ The purpose of this project is to update my portfolio page with my latest projec
 
 Here is the [link](https://orenamema.github.io/NewPortfolio/) to the updated page
 
+![alt text](https://github.com/orenamema/NewPortfolio/raw/master/images/demo.gif)
+
 ## Technologies Used
 
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -18,7 +20,7 @@ Here is the [link](https://orenamema.github.io/NewPortfolio/) to the updated pag
 
 Following are the requirements that I've followed for this project:
 
-* Updated portfolio featuring project 2 and other exemplary projects. 
+* Updated portfolio featuring project 2 and others. 
 * Updated resume
 * Updated LinkedIn profile
 
