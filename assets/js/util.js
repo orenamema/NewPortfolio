@@ -63,36 +63,36 @@
 				config;
 
 		// Config.
-			config = $.extend({
+			// config = $.extend({
 
-				// Delay.
-					delay: 0,
+			// 	// Delay.
+			// 		delay: 0,
 
-				// Hide panel on link click.
-					hideOnClick: false,
+			// 	// Hide panel on link click.
+			// 		hideOnClick: false,
 
-				// Hide panel on escape keypress.
-					hideOnEscape: false,
+			// 	// Hide panel on escape keypress.
+			// 		hideOnEscape: false,
 
-				// Hide panel on swipe.
-					hideOnSwipe: false,
+			// 	// Hide panel on swipe.
+			// 		hideOnSwipe: false,
 
-				// Reset scroll position on hide.
-					resetScroll: false,
+			// 	// Reset scroll position on hide.
+			// 		resetScroll: false,
 
-				// Reset forms on hide.
-					resetForms: false,
+			// 	// Reset forms on hide.
+			// 		resetForms: false,
 
-				// Side of viewport the panel will appear.
-					side: null,
+			// 	// Side of viewport the panel will appear.
+			// 		side: null,
 
-				// Target element for "class".
-					target: $this,
+			// 	// Target element for "class".
+			// 		target: $this,
 
-				// Class to toggle.
-					visibleClass: 'visible'
+			// 	// Class to toggle.
+			// 		visibleClass: 'visible'
 
-			}, userConfig);
+			// }, userConfig);
 
 			// Expand "target" if it's not a jQuery object already.
 				if (typeof config.target != 'jQuery')
